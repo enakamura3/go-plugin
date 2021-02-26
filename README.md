@@ -1,5 +1,6 @@
 # go-plugin sample
 
+> https://golang.org/pkg/plugin/
 
 ## Getting Started
 
